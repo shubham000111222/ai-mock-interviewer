@@ -1,3 +1,12 @@
+---
+title: AI Mock Interviewer
+emoji: 🎙️
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: true
+---
+
 # 🎙️ AI Mock Interviewer
 
 An end-to-end AI-powered interview preparation tool. Upload any job description, answer AI-generated role-specific questions via audio or text, and receive detailed feedback on **content quality** and **confidence score**.
